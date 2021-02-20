@@ -1,0 +1,224 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+}
+.wrapper {
+  background-color: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background-color: #1e293a;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.my-foto {
+  width: 370px;
+}
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contact-title {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.contact-link {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #8f949d;
+}
+.contact-link-tipe {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.tech-skills-container-title {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.tech-skills-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.tech-skills-iton {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #ea650c;
+  margin-left: 15px;
+}
+.tech-skills-text {
+  color: #d2d4d7;
+}
+
+.soft-skills-container-title {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.soft-skills-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.soft-skills-iton {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #ea650c;
+  margin-left: 15px;
+}
+.soft-skills-text {
+  color: #d2d4d7;
+}
+.profession {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #000000;
+  margin-bottom: 23px;
+}
+.name {
+  font-size: 45px;
+  line-height: 89px;
+  font-weight: 700;
+  color: #000000;
+}
+.description {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #5a595a;
+  margin-bottom: 65px;
+}
+.info-conteiner {
+  margin-bottom: 65px;
+}
+.about-me-title {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.project-link {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #595959;
+}
+.tech-name {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #595959;
+}
+.dots {
+  color: #cbcbcb;
+  font-weight: 100;
+}
+.project-link {
+  margin-left: 12px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #595959;
+}
+.project-iton {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #000000;
+  margin-left: 15px;
+}
+.project-conteiner {
+  margin-bottom: 55px;
+}
+.profession-title {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.professional-company {
+  color: #ff6b08;
+}
+.profession-time {
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #a8a8a8;
+}
+.profession-divider {
+  color: #000000;
+}
+.profession-duties {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+.profession-duties-iton {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #595959;
+  margin-left: 17px;
+}
+.about-me-study {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #ff6b08;
+}
+.abaut-me-specialty {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
